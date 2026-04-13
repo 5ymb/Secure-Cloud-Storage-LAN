@@ -39,7 +39,7 @@ A proof-of-concept, GUI-based Python application that encrypts and decrypts file
 <li><strong>Clone the repository:</strong>
 
 
-<pre><code>git clone https://github.com/YourUsername/Secure-Cloud-Storage.git</code></pre>
+<pre><code>git clone https://github.com/5ymb/Secure-Cloud-Storage.git</code></pre>
 </li>
 <li><strong>Navigate to the directory:</strong>
 
@@ -75,5 +75,8 @@ A proof-of-concept, GUI-based Python application that encrypts and decrypts file
 <hr>
 
 <p align="center">
+<i>Author: Abdulqader</i>
+<i>Built with Python, Tkinter, and the python-cryptography library.</i>
+</p>
 <i>Built with Python, Tkinter, and the python-cryptography library.</i>
 </p>
