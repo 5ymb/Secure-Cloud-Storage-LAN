@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🛡️ Secure Cloud Storage (Zero-Knowledge E2EE)</h1>
+<h1>☁️ Secure Cloud Storage (Zero-Knowledge E2EE)</h1>
 
 <p>
 A proof-of-concept, GUI-based Python application that encrypts and decrypts files locally using the
