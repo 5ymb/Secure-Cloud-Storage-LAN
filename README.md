@@ -76,7 +76,6 @@ A proof-of-concept, GUI-based Python application that encrypts and decrypts file
 
 <p align="center">
 <i>Author: Abdulqader</i>
-  
 <i>Built with Python, Tkinter, and the python-cryptography library.</i>
 </p>
 </p>
