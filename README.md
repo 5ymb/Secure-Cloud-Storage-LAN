@@ -44,7 +44,7 @@ A proof-of-concept, GUI-based Python application that encrypts and decrypts file
 <li><strong>Navigate to the directory:</strong>
 
 
-<pre><code>cd Secure-Cloud-Storage</code></pre>
+<pre><code>cd Secure-Cloud-Storage-LAN</code></pre>
 </li>
 <li><strong>Generate the TLS Certificate:</strong>
 
